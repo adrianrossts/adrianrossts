@@ -16,6 +16,11 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 - Tightening eval + observability workflows for production LLM features
 - Sharing backend reliability patterns from real implementation work
 
+## Recent shipped artifacts
+- **AI Quality Loops That Actually Prevent Regressions** — practical checklist + examples for safer LLM releases ([read in `adrian-blog`](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/ai-quality-loops.html))
+- **desafio-itau-backend** — Java/Spring backend challenge focused on clean architecture and testable API design ([repo](https://github.com/adrianrossts/desafio-itau-backend))
+- **quarto-wizard** — VS Code extension improving Quarto setup speed and consistency ([repo](https://github.com/adrianrossts/quarto-wizard))
+
 ## Find me
 - X/Twitter: [@AdrianrossTS](https://x.com/AdrianrossTS)
 - LinkedIn: [Adrian Ross](https://www.linkedin.com/in/adrianross-ts)
