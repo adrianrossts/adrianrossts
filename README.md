@@ -24,7 +24,10 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 ## Find me
 - X/Twitter: [@AdrianrossTS](https://x.com/AdrianrossTS)
 - LinkedIn: [Adrian Ross](https://www.linkedin.com/in/adrianross-ts)
-- Blog: [adrian-blog](https://github.com/adrianrossts/adrian-blog)
+- Website: [adrianross.de](https://www.adrianross.de/)
+- Blog repo: [adrian-blog](https://github.com/adrianrossts/adrian-blog)
 
 ---
 If you're building reliable AI features in production, I enjoy exchanging notes.
+
+**Open to:** engineering conversations on eval quality, backend reliability, and practical AI shipping.
