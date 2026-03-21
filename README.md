@@ -16,6 +16,11 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 - Tightening eval + observability workflows for production LLM features
 - Sharing backend reliability patterns from real implementation work
 
+## Working principles
+- **No blind launches**: every AI change ships with a baseline eval and rollback path
+- **Evidence over hype**: public updates include implementation details and trade-offs
+- **Small, frequent releases**: iterate weekly instead of batching risky rewrites
+
 ## Recent shipped artifacts
 - **AI Quality Loops That Actually Prevent Regressions** — practical checklist + examples for safer LLM releases ([read in `adrian-blog`](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/ai-quality-loops.html))
 - **desafio-itau-backend** — Java/Spring backend challenge focused on clean architecture and testable API design ([repo](https://github.com/adrianrossts/desafio-itau-backend))
