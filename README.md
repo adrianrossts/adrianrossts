@@ -26,6 +26,11 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 - **desafio-itau-backend** — Java/Spring backend challenge focused on clean architecture and testable API design ([repo](https://github.com/adrianrossts/desafio-itau-backend))
 - **quarto-wizard** — VS Code extension improving Quarto setup speed and consistency ([repo](https://github.com/adrianrossts/quarto-wizard))
 
+## Collaboration style
+- **Scope fast, ship faster**: define a small success metric before implementation
+- **Quality gates by default**: lightweight eval + monitoring checks before each release
+- **Async-friendly updates**: concise build logs with decisions, trade-offs, and next steps
+
 ## Find me
 - X/Twitter: [@AdrianrossTS](https://x.com/AdrianrossTS)
 - LinkedIn: [Adrian Ross](https://www.linkedin.com/in/adrianross-ts)
