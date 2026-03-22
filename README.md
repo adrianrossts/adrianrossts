@@ -23,6 +23,7 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 
 ## Recent shipped artifacts
 - **AI Quality Loops That Actually Prevent Regressions** — practical checklist + examples for safer LLM releases ([read in `adrian-blog`](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/ai-quality-loops.html))
+- **Under the Hood of Hyped Repos** — technical teardown of high-star projects with practical lessons you can reuse ([read in `adrian-blog`](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/under-the-hood-hyped-repos.html))
 - **desafio-itau-backend** — Java/Spring backend challenge focused on clean architecture and testable API design ([repo](https://github.com/adrianrossts/desafio-itau-backend))
 - **quarto-wizard** — VS Code extension improving Quarto setup speed and consistency ([repo](https://github.com/adrianrossts/quarto-wizard))
 
