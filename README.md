@@ -23,11 +23,13 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 
 ## Recent shipped artifacts
 - **AI Quality Loops That Actually Prevent Regressions** — practical checklist + examples for safer LLM releases ([read in `adrian-blog`](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/ai-quality-loops.html))
-- **Under the Hood of Hyped Repos** — technical teardown of high-star projects with practical lessons you can reuse ([read in `adrian-blog`](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/under-the-hood-hyped-repos.html))
+- **Repo Teardown #1: LangChain** — what 130k+ stars do (and don’t) tell you, with adoption gates and engineering risk signals ([read in `adrian-blog`](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/repo-teardown-langchain.html))
+- **Under the Hood of Hyped Repos** — technical teardown framework for evaluating high-star projects with practical lessons you can reuse ([read in `adrian-blog`](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/under-the-hood-hyped-repos.html))
 - **desafio-itau-backend** — Java/Spring backend challenge focused on clean architecture and testable API design ([repo](https://github.com/adrianrossts/desafio-itau-backend))
 - **quarto-wizard** — VS Code extension improving Quarto setup speed and consistency ([repo](https://github.com/adrianrossts/quarto-wizard))
 
 ## Start here (best entry points)
+- **Latest teardown**: LangChain under-the-hood analysis with concrete steal/adapt/avoid takeaways ([article](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/repo-teardown-langchain.html))
 - **AI evals playbook**: practical release-gate checklist for LLM features ([article](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/ai-quality-loops.html))
 - **Backend architecture sample**: clean Java/Spring API design with testable boundaries ([desafio-itau-backend](https://github.com/adrianrossts/desafio-itau-backend))
 - **Tooling artifact**: VS Code extension for faster Quarto setup ([quarto-wizard](https://github.com/adrianrossts/quarto-wizard))
