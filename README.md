@@ -34,6 +34,11 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 - **Backend architecture sample**: clean Java/Spring API design with testable boundaries ([desafio-itau-backend](https://github.com/adrianrossts/desafio-itau-backend))
 - **Tooling artifact**: VS Code extension for faster Quarto setup ([quarto-wizard](https://github.com/adrianrossts/quarto-wizard))
 
+## Q2 visibility roadmap
+- Publish **Repo Teardown #2** + **#3** with code-level adoption checklists
+- Post one compact weekly build log with metrics and trade-offs
+- Keep profile links current so first-time visitors can find newest technical artifacts in <30 seconds
+
 ## Collaboration style
 - **Scope fast, ship faster**: define a small success metric before implementation
 - **Quality gates by default**: lightweight eval + monitoring checks before each release
