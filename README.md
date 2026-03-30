@@ -11,10 +11,10 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 - **adrian-blog** — technical notes on AI quality loops, backend patterns, and weekly build logs
 - **desafio-itau-backend** — backend challenge implementation with pragmatic API/reporting design
 
-## Shipping now (Mar 2026)
-- Publishing short build logs with concrete metrics (what changed, why, and result)
-- Tightening eval + observability workflows for production LLM features
-- Sharing backend reliability patterns from real implementation work
+## Shipping this week (Mar 30 – Apr 5, 2026)
+- Publish **Repo Teardown #2** with a practical adopt/avoid checklist
+- Ship one short **build log** with measurable before/after results
+- Refine profile entry links so new visitors can find latest artifacts in under 30 seconds
 
 ## Working principles
 - **No blind launches**: every AI change ships with a baseline eval and rollback path
@@ -33,11 +33,6 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 - **AI evals playbook**: practical release-gate checklist for LLM features ([article](https://github.com/adrianrossts/adrian-blog/blob/main/public/posts/ai-quality-loops.html))
 - **Backend architecture sample**: clean Java/Spring API design with testable boundaries ([desafio-itau-backend](https://github.com/adrianrossts/desafio-itau-backend))
 - **Tooling artifact**: VS Code extension for faster Quarto setup ([quarto-wizard](https://github.com/adrianrossts/quarto-wizard))
-
-## Q2 visibility roadmap
-- Publish **Repo Teardown #2** + **#3** with code-level adoption checklists
-- Post one compact weekly build log with metrics and trade-offs
-- Keep profile links current so first-time visitors can find newest technical artifacts in <30 seconds
 
 ## Collaboration style
 - **Scope fast, ship faster**: define a small success metric before implementation
