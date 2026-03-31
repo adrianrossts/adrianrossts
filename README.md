@@ -12,9 +12,9 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 - **desafio-itau-backend** — backend challenge implementation with pragmatic API/reporting design
 
 ## Shipping this week (Mar 30 – Apr 5, 2026)
-- Publish **Repo Teardown #2** with a practical adopt/avoid checklist
-- Ship one short **build log** with measurable before/after results
-- Refine profile entry links so new visitors can find latest artifacts in under 30 seconds
+- Publish **Repo Teardown #2** with a practical adopt/avoid checklist ([tracking issue](https://github.com/adrianrossts/adrianrossts/issues/1))
+- Ship **Build Log #1: PR release-gates for AI features** ([editorial issue](https://github.com/adrianrossts/adrian-blog/issues/3))
+- Keep profile entry links fresh so new visitors can find latest artifacts in under 30 seconds
 
 ## Working principles
 - **No blind launches**: every AI change ships with a baseline eval and rollback path
