@@ -16,6 +16,12 @@ I build production-minded AI + backend systems with a focus on quality loops, ob
 - Ship **Build Log #1: PR release-gates for AI features** ([editorial issue](https://github.com/adrianrossts/adrian-blog/issues/3))
 - Keep profile entry links fresh so new visitors can find latest artifacts in under 30 seconds
 
+
+## April credibility scoreboard (updated Apr 1, 2026)
+- Public technical artifacts shipped this month: **0 → target 4** (2 teardowns, 2 build logs)
+- Current priority: ship **Build Log #1** and include one measurable before/after metric
+- Roadmap anchor: [Q2 2026 build-in-public roadmap](https://github.com/adrianrossts/adrianrossts/issues/1)
+
 ## Working principles
 - **No blind launches**: every AI change ships with a baseline eval and rollback path
 - **Evidence over hype**: public updates include implementation details and trade-offs
